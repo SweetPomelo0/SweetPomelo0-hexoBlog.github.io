@@ -22,7 +22,7 @@ deploy:
   
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://github.com/SweetPomelo0/hexo-blog
+url: https://github.com/SweetPomelo0/hexo-blog.github.io
 # url: https://sweetpomelo0.github.io/hexo-blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
