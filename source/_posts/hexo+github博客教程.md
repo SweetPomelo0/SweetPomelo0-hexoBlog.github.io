@@ -257,6 +257,17 @@ node -v 能够查到版本信息，就可以了
 
 * 创建标签页、分类页、友情链接、图库、子页面等见文档
 
+# 记录一些坑
+
+* 部署到GitPage后没有样式
+
+  原因是_config.yml文件配置有问题，重新设置`url`和`root`两个字段
+
+  ```yml
+  url: https://sweetpomelo0.github.io//hexoBlog #这是我的gitpage网址，在setting中查看
+  root: /hexoBlog/ #这是我的仓库名字
+  ```
+
   
 
 
